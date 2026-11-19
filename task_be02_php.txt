@@ -1,0 +1,66 @@
+Software Engineering / PHP & Laravel
+BE02 - PHP Conditions, Loops, Arrays, and Functions
+Description
+Study the following topics:
+• Conditional statements:
+o if
+o else
+o elseif
+o switch
+o Ternary operator
+o Null coalescing operator
+• Loops:
+o for
+o while
+o do-while
+o foreach
+• Loop control:
+o break
+o continue
+• Arrays:
+o Indexed arrays
+o Associative arrays
+o Multidimensional arrays
+• Common array operations:
+o count()
+o array_push()
+o array_pop()
+o array_merge()
+o in_array()
+o array_filter()
+o array_map()
+• Functions:
+o Function declaration and calling.
+o Parameters and return values.
+o Default parameters.
+o Type declarations.
+o Variable scope.
+o Anonymous functions and arrow functions.
+• Introduction to reusable programming logic.
+
+Instructions
+Learn how to control program execution using conditional statements and loops. Understand how arrays organize multiple values and how functions help create reusable code.
+
+Assignment Details
+Description
+Create a PHP application that manages student information and calculates academic results.
+Assignment Requirements:
+1. Create an array containing at least 10 students.
+2. Each student should have:
+o Student name
+o Roll number
+o Subject marks
+o Total marks
+o Obtained marks
+3. Create reusable functions to:
+o Calculate total marks.
+o Calculate percentage.
+o Determine grade.
+o Determine pass/fail status.
+4. Display all students in an HTML table.
+5. Use loops to display student records.
+6. Use conditional statements to assign grades.
+7. Display the highest-scoring student.
+8. Display the average percentage of all students.
+9. Filter students who passed and students who failed.
+10. Create a summary showing the total number of students, passed students, and failed students.
